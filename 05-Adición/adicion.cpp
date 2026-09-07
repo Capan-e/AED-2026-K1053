@@ -13,5 +13,5 @@ int main(){
 
 
 int adicion (int a, int b){
-    std::cout << a + b << endl;
+    std::cout << a + b;
 };
